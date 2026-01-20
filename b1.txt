@@ -1,2 +1,2 @@
-branch test
-main
+브랜치테스트
+메인
